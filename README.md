@@ -1,5 +1,11 @@
-Student. 
+<div align=center>
+<h1>About me</h1>
+</div>
 
-Compilers & TT. 
+Hi, I am **Kiva**. 
 
-Powered by love.
+- :fish_cake: Currently a college student.
+- :rainbow: Love compilers and type theory.
+- :fire: Mostly code in `Rust`, `Kotlin` and `C++`
+- :key: Want to learn `Arend`, `Agda` and `Haskell`
+- :star: Powered by love
