@@ -1,6 +1,4 @@
-<div align=center>
-<h1>About me</h1>
-</div>
+# About me
 
 Hi, I am **Kiva**. 
 
