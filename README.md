@@ -1,11 +1,9 @@
-<div align=center>
-<h1>About me</h1>
-</div>
+# About me
 
 Hi, I am **Kiva**. 
 
 - :fish_cake: Currently a college student.
 - :rainbow: Love compilers and type theory.
-- :fire: Mostly code in `Rust`, `Kotlin` and `C++`
+- :fire: Mostly code in `Rust`, `Kotlin` and `Java`
 - :key: Want to learn `Arend`, `Agda` and `Haskell`
 - :star: Powered by love
