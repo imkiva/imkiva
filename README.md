@@ -1,4 +1,8 @@
-Hi, I am **Kiva**. This is my [GPG Key](https://github.com/imkiva.gpg).
+Hi, I am **Kiva**.
+
+This is my [GPG Key](https://github.com/imkiva.gpg).
+
+**I have lost trust in all mail service providers, so please use GPG to encrypt the mail if it will contain sensitive information**
 
 - :fish_cake: Currently a college student.
 - :rainbow: Love compilers and type theory.
