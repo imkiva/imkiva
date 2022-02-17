@@ -1,8 +1,6 @@
 Hi, This is **Kiva**.
 
-This is my [PGP Key](https://github.com/imkiva.gpg), fingerprint `E53C C418 84DA E870 050B  6623 A653 1CD6 A528 D89D` with mail `imkiva@islovely.icu`
-
-**I have lost trust in all mail service providers, so please encrypt the mail with the key if it will contain sensitive information**
+This is my [PGP Key](https://github.com/imkiva.gpg). Messages not signed with my GPG key does not represent personal opinions.
 
 - :rainbow: Love compilers and type theory.
 - :fire: Mostly code in `Java` and `Rust`
