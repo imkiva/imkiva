@@ -1,6 +1,6 @@
 Hi, This is **Kiva**.
 
-Messages not signed with my [GPG Key](https://github.com/imkiva.gpg) does not represent personal opinions.
+Messages not signed with my [GPG Key](https://github.com/imkiva.gpg) do not represent personal opinions.
 
 - :rainbow: Love compilers and type theory.
 - :fire: Mostly code in `Java` and `Rust`
