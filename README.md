@@ -1,4 +1,4 @@
-Hi, This is **Kiva**.
+Hi, This is **Kiva** (Pronoun: she/her).
 
 Messages not signed with my [GPG Key](https://github.com/imkiva.gpg) do not represent personal opinions.
 
